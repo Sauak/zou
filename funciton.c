@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("111");
+	printf("change function,c");
 	return 0;
 }
