@@ -112,6 +112,6 @@ if__name__ =='__main__';
 
 ## 文章中插入图片
 
-**如果插入的图片是本地资源，无法在github上显示，需要将本地图片上传并生成url地址
+**如果插入的图片是本地资源，无法在github上显示，需要将本地图片上传并生成url地址**
 
 ![wallPaper](https://s2.loli.net/2022/03/10/CHS9y1KNQ2fmzau.png)
