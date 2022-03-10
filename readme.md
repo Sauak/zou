@@ -63,3 +63,15 @@
 Csgo|198|1
 Pubg|98|2
 LoL|218|3
+
+## 插入代码片段
+
+···c
+  #include <stdio.h>
+  #include <stdlib.h>
+  #include <string.h>
+  int main(void)
+  {
+	printf("111");
+  }
+···
