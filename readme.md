@@ -98,6 +98,6 @@ LoL|218|3
   def test();
 	printf("this message is from test");
 
-if__name__ ==`__main__`;
+if__name__ =='__main__';
 	test();
 ```
